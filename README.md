@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  https://www.onsoranje.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Homepagina OnsOranje  
   <img src="readme-images/page1.png" width="375px" alt="homepagina onsoranje">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Ticketpagina OnsOranje  
   <img src="readme-images/page2.png" width="375px" alt="ticketpagina onsoranje">
  
 </details>
